@@ -1,11 +1,9 @@
-## CHatGPT POwered Assistant Guide
+## ChatGPT Powered Assistant Guide
 
-### Which MOdel
+### Which Model
 
 GPT 4o
 
-I have the paid version of ChatGPT
-
-## Prompting Guides
+### Prompting Guides
 
 https://platform.openai.com/docs/guides/prompt-engineering
